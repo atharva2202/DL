@@ -6,3 +6,4 @@ other : https://github.com/Atharva2116/DL
 import os
 os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
 import keras
+sudo pip install -r requirements.txt
